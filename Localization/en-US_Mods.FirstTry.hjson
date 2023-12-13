@@ -1,0 +1,25 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	zxc: {
+		DisplayName: zxc
+		Tooltip: pizdec
+	}
+
+	pickaxe: {
+		DisplayName: pickaxe
+		Tooltip: ahuetb
+	}
+
+	socks: {
+		DisplayName: socks
+		Tooltip: Allows ahuetb ot skorosti
+	}
+
+	yo: {
+		DisplayName: yo
+		Tooltip: idgafuck
+	}
+}
+
+Projectiles.yoprojectile.DisplayName: yoprojectile

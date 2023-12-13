@@ -1,0 +1,3 @@
+displayName = Первая попытка
+author = я
+version = 0.1
